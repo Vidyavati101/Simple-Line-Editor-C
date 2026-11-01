@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Line Editor in C
 
 ## Project Description
@@ -28,3 +29,7 @@ Windows:
 
 ## Help
 See `HELP.md` for commands and examples.
+=======
+# Simple-Line-Editor-C
+A simple command-line Line Editor in C that allows users to insert, delete, and display lines of text. Built using an array of strings as the data structure.
+>>>>>>> c46cadd0dec3934015a8cf7512e7f290089d2712
